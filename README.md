@@ -1,2 +1,2 @@
 # mynmt2
-OpenNMT-TF experiment
+my OpenNMT-TF experiment files
